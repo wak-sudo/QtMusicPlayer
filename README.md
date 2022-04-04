@@ -4,3 +4,5 @@ A simple test/study program for playing music files. Some issues may occur. Crea
 
 Requires a codec or filters for DirectShow:
 https://forum.doom9.org/showthread.php?t=156191
+
+![App](https://github.com/wak-sudo/QtMusicPlayer/blob/main/screenshots/App.png)
